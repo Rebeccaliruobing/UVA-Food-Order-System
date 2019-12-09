@@ -6,7 +6,7 @@
 4. Run CreateTable.sql script in "foodorder" database. After doing this, you should see the tables in the database. ![](.\images\database.PNG)
 5. Go to http://localhost:your_localhost_port/uvafood/index.html . You should be able to use the website now. ![](.\images\index.PNG)
 
-##Use the website
+## Use the website
 1. Register: Click on register and register an account. Now your account information should be added to the user_info table in the database.
 2. Log in: Use the account information you registered to log in.
 3. Update personal profile: After logg in, there would be a subpage called User Profile. Go to that subpage and input your information such as address, phone, cardnumber and wallet. Wallet is your recharge amount for this website.
